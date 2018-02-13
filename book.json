@@ -1,6 +1,9 @@
 {
     "title": "文档",
     "language": "zh-hans",
+    "author": "linzy120",
+    "description": "测试gitbook与github的联系!",
+    "direction": "rtl",
     "styles": {
         "website": "styles/website.css"
     },
